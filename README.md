@@ -1,2 +1,3 @@
-# CoWin-Automation
-This project uses Selenium Web Automation to automate Vaccination Availability
+# CoWin Vaccination Appointment Automation
+
+### I'm busy finishing the project, so i'll make the README later
