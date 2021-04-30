@@ -9,20 +9,19 @@ def GetDate():  # Get Current Date
 
     return day
 
-PINCODE = 301001
+PIN = 30100
 DATE = GetDate()
-print(DATE)
-URL = f'https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByPin?pincode={PINCODE}&date={DATE}'
 
-def main():
+def main(pin, date):
+    URL = f'https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByPin?pincode={pin}&date={date}'
+    
     response = requests.get(URL)
     data = response.json()
 
     if len(data['centers']) == 0:
-        print("No Vaccination Centres Found")
-        return
+        return None
     
     else:
-        print("Found Vaccination Centre")
+        return data
 
 main()
