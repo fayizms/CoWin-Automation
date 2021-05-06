@@ -13,4 +13,6 @@ async def on_message(msg):
     if msg.contents.startswith('Check'):
         result = req_module.main(req_module.PIN, req_module.DATE)
 
+        await msg.channel.send(result)
+
 bot.run(api_key)
