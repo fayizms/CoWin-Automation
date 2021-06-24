@@ -1,0 +1,62 @@
+{
+    "sessions": [
+        {
+            "center_id": 570774,
+            "name": "Thycaud W And C Hospital 2",
+            "address": "W And C CompoundThycaud",
+            "state_name": "Kerala",
+            "district_name": "Thiruvananthapuram",
+            "block_name": "Thiruvananthapuram",
+            "pincode": 695014,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "lat": 8,   
+            "long": 76,
+            "fee_type": "Free",
+            "session_id": "8187fbba-ee00-4bc9-a19e-aefd1d335bb1",
+            "date": "07-05-2021",
+            "available_capacity": 1,
+            "fee": "0",
+            "min_age_limit": 45,
+            "vaccine": "COVISHIELD",
+            "slots": [
+                "09:00AM-11:00AM",
+                "11:00AM-01:00PM",
+                "01:00PM-03:00PM",
+                "03:00PM-05:00PM"
+            ]
+        }
+    ]
+}
+/*
+{
+    "sessions": [
+        {
+            "center_id": 564393,
+            "name": "Govt Medical College Session 1",
+            "address": "Medical College PO Thiruvanathapuram",
+            "state_name": "Kerala",
+            "district_name": "Thiruvananthapuram",
+            "block_name": "Thiruvananthapuram",
+            "pincode": 695011,
+            "from": "09:00:00",
+            "to": "17:00:00",
+            "lat": 8,
+            "long": 76,
+            "fee_type": "Free",
+            "session_id": "fc75b77f-8502-4474-8b7e-2c634155d23a",
+            "date": "07-05-2021",
+            "available_capacity": 1,
+            "fee": "0",
+            "min_age_limit": 45,
+            "vaccine": "COVISHIELD",
+            "slots": [
+                "09:00AM-11:00AM",
+                "11:00AM-01:00PM",
+                "01:00PM-03:00PM",
+                "03:00PM-05:00PM"
+            ]
+        }
+    ]
+}
+*/

@@ -1,0 +1,39 @@
+{
+    "centers": [
+        {
+            "center_id": 26717,
+            "name": "Paraswada SC Chu",
+            "address": "Paraswada SC",
+            "state_name": "Maharashtra",
+            "district_name": "Bhandara",
+            "block_name": "Tumsar",
+            "pincode": 441915,
+            "lat": 21,
+            "long": 79,
+            "from": "09: 00: 00",
+            "to": "17: 00: 00",
+            "fee_type": "Free",
+        }
+    ]
+}
+
+/*
+{
+    'centers': [
+        {
+            'center_id': 26717,
+            'name': 'Paraswada SC Chu', 
+            'address': 'Paraswada SC', 
+            'state_name': 'Maharashtra', 
+            'district_name': 'Bhandara', 
+            'block_name': 'Tumsar', 
+            'pincode': 441915, 
+            'lat': 21, 
+            'long': 79, 
+            'from': '09: 00: 00', 
+            'to': '17: 00: 00', 
+            'fee_type': 'Free', 
+        }
+    ]
+}
+*/
