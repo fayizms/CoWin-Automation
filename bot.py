@@ -2,7 +2,7 @@ import discord
 from api import PIN
 
 bot = discord.Client()
-API_KEY = 'ODM3MzgwNjI3NjU2NzM2Nzkz.YIrtew.2pgCECLo8fbuiOIcMCer2o5UWE0'
+API_KEY = '' #TOKEN HIDDEN
 check = PIN()
 
 @bot.event
